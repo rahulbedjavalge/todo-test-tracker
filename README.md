@@ -23,7 +23,7 @@
 - **Project Boards** ready for organization
 - **Full AI Analysis** with proper task breakdown
 
-![GitHub Issues Screenshot](./assets/github_issues_screenshot.png)
+![GitHub Issues Screenshot](assets/screencapture-github-rahulbedjavalge-todo-test-tracker-issues-2025-06-26-00_33_37.png)
 
 ## 🛠️ Setup
 
